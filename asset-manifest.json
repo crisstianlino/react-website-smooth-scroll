@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-website-smooth-scroll/static/css/main.61d0a6bd.chunk.css",
+    "main.js": "/react-website-smooth-scroll/static/js/main.62f19110.chunk.js",
+    "main.js.map": "/react-website-smooth-scroll/static/js/main.62f19110.chunk.js.map",
+    "runtime-main.js": "/react-website-smooth-scroll/static/js/runtime-main.c1dfb768.js",
+    "runtime-main.js.map": "/react-website-smooth-scroll/static/js/runtime-main.c1dfb768.js.map",
+    "static/js/2.808d9f7d.chunk.js": "/react-website-smooth-scroll/static/js/2.808d9f7d.chunk.js",
+    "static/js/2.808d9f7d.chunk.js.map": "/react-website-smooth-scroll/static/js/2.808d9f7d.chunk.js.map",
+    "index.html": "/react-website-smooth-scroll/index.html",
+    "static/css/main.61d0a6bd.chunk.css.map": "/react-website-smooth-scroll/static/css/main.61d0a6bd.chunk.css.map",
+    "static/js/2.808d9f7d.chunk.js.LICENSE.txt": "/react-website-smooth-scroll/static/js/2.808d9f7d.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/react-website-smooth-scroll/static/media/svg-1.f224946c.svg",
+    "static/media/svg-2.svg": "/react-website-smooth-scroll/static/media/svg-2.f074f58c.svg",
+    "static/media/svg-3.svg": "/react-website-smooth-scroll/static/media/svg-3.11582cd8.svg",
+    "static/media/svg-4.svg": "/react-website-smooth-scroll/static/media/svg-4.5e008893.svg",
+    "static/media/svg-5.svg": "/react-website-smooth-scroll/static/media/svg-5.eda33309.svg",
+    "static/media/svg-6.svg": "/react-website-smooth-scroll/static/media/svg-6.b6653246.svg",
+    "static/media/video.d48e2181.mp4": "/react-website-smooth-scroll/static/media/video.d48e2181.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1dfb768.js",
+    "static/js/2.808d9f7d.chunk.js",
+    "static/css/main.61d0a6bd.chunk.css",
+    "static/js/main.62f19110.chunk.js"
+  ]
+}
